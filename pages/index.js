@@ -9,7 +9,3 @@ function Home() {
 }
 
 export default Home;
-
-function teste2() {
-  return <h1>"olá mundo"</h1>;
-}
